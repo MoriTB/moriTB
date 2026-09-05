@@ -51,7 +51,7 @@ A six-task real-time system coordinating sensors, actuators, scheduling, and sha
 
 I have teaching experience in **Computer Architecture** and **Software Testing**, helping students connect theoretical concepts with practical implementation.
 
-I’m currently turning my research and previous projects into reproducible ML case studies with clear architecture, measurable results, tests, and interactive demonstrations.
+I’m currently turning my research and projects into reproducible ML case studies with clear architecture and interactive demonstrations.
 
 <p align="center">
   <strong>Open to Machine Learning Engineer, Applied ML, ML Systems, and ML Security opportunities.</strong>
