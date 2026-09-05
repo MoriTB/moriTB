@@ -1,67 +1,58 @@
-<!-- ──────────────────  HERO  ────────────────── -->
-<p align="center">
-  <!-- Drop in your Rick‑&‑Morty → Tony Soprano banner here -->
-  <img src="banner_rick‑morty_tony.png" alt="Morteza Tavakkoli — Full‑Stack • ML • Embedded" width="100%">
-</p>
-
-<h1 align="center">Morteza Tavakkoli</h1>
-<p align="center"><strong>Full‑Stack Engineer • Machine Learning Builder • Embedded Systems Tinkerer</strong></p>
+<h1 align="center">Morteza Tavakkoli</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/moritavakkoli" target="_blank">LinkedIn</a> • 
-  <a href="https://github.com/MoriTB" target="_blank">GitHub</a> • 
-  <a href="mailto:moritavakkoli@gmail.com">Email</a> • 
-  <a href="docs/Morteza_Tavakkoli_cv.pdf" target="_blank">Résumé (PDF)</a>
+  <strong>Machine Learning Engineer · ML Systems · Cybersecurity · Edge AI</strong>
 </p>
 
-<!-- ──────────────────  SNAPSHOT  ────────────────── -->
-## Snapshot
-| What I Deliver | Impact |
-|----------------|--------|
-| **End‑to‑End SaaS Prototypes** (React&nbsp;+&nbsp;FastAPI) | 0→1 in weeks—authentication, Stripe billing, CI/CD on Railway |
-| **Route & Supply‑Chain Optimisers** (Gurobi, Folium) | Cut simulated spoilage by **18 %** across 20+ Montréal stores |
-| **Embedded RTOS Projects** (STM32 + FreeRTOS) | Deterministic control loops for smart‑farm sensors & actuators |
-| **ML Security Research** (PyTorch) | Evaluated backdoor & FGSM attacks on MNIST; differential‑privacy trials via Opacus |
-| **LinkedIn Outreach Automation** (Playwright, OpenAI) | Generates & sends personalised referral DMs; 4× faster pipeline |
-
-<!-- ──────────────────  CORE  ────────────────── -->
-## Core Strengths
-- **Full‑Stack:** React • Vite • Tailwind • Express • FastAPI • PostgreSQL
-- **Machine Learning:** PyTorch, scikit‑learn, model evaluation, data pipelines
-- **Optimisation/OR:** Gurobi, OR‑Tools, VRP/TSP, capacity & time‑window constraints
-- **Embedded:** STM32, FreeRTOS, CMSIS‑DSP, UART/I2C/SPI bring‑up
-- **Automation:** Playwright, Google API, Selenium, Airflow
-- **Communication:** TA for Computer Architecture & Software Testing
-
-<!-- ──────────────────  PROJECTS  ────────────────── -->
-## Selected Projects
-| Project | Tech Stack | One‑Liner |
-|---------|------------|-----------|
-| **EV Grocery Route Optimiser** | Python • Gurobi • Folium | Multi‑vehicle VRP + freshness decay → interactive map UI for cost & spoilage trade‑offs |
-| **Smart‑Farm RTOS** | C • FreeRTOS • STM32 | Rate‑monotonic scheduler handles 6 sensor/relay tasks with < 1 ms jitter |
-| **Resume‑Builder SaaS** | React • Tailwind • FastAPI • LaTeX | AI‑assisted résumé editing; minimal‑diff mode to dodge AI detectors |
-| **LinkedIn Referral Bot** | Python • Playwright • OpenAI | Crawls JD → crafts personalised DM; tracks replies in Google Sheets |
-| **MNIST Backdoor Study** | PyTorch • Opacus | Benchmarked accuracy vs privacy‑budget trade‑offs under blended injection |
-
-<!-- ──────────────────  TOOLBOX  ────────────────── -->
-## Toolbox
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Gurobi-E00000?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <em>Hello, friend. I’m Mori — just a tech building intelligent systems for the real world.</em>
 </p>
 
-<!-- ──────────────────  LOOKING FOR  ────────────────── -->
-## What’s Next?
-I’m open to **Full‑Stack, ML Engineer, or Embedded AI** roles.  
-Let’s talk shop—whether it’s optimising supply chains, building low‑latency ML, or squeezing cycles out of a Cortex‑M.
+<p align="center">
+  <a href="https://linkedin.com/in/moritavakkoli">LinkedIn</a> ·
+  <a href="mailto:moritavakkoli@gmail.com">Email</a>
+</p>
 
-<blockquote align="center">
-  <em>"Guy like me? I got algorithms to run and promises to keep."</em><br>
-  — Tony Soprano&nbsp;(if he shipped code instead of, y’know&hellip;)
-</blockquote>
+I’m an M.Sc. Computer Science candidate at **Ontario Tech University**, working at the intersection of machine learning, cybersecurity, and resource-constrained systems.
 
-<p align="center"><sub>Last updated — <!-- GitHub timestamp --> </sub></p>
+My research focuses on intrusion detection for electric-vehicle charging and IoT environments. I evaluate models beyond predictive performance—considering latency, memory, model size, robustness, and deployment feasibility.
+
+## Current Focus
+
+* Resource-aware intrusion and anomaly detection
+* TinyML optimization and model compression
+* Adversarially robust machine learning
+* Reproducible experimentation and ML system design
+* Edge and real-time intelligent systems
+
+## Selected Work
+
+### [EV Charging & IoT Intrusion Detection](https://github.com/MoriTB/EV-Survey-Models2)
+
+A multi-dataset research pipeline for training and evaluating classical and neural intrusion-detection models. The project studies the trade-offs between weighted/macro F1, inference time, memory consumption, and model size.
+
+`Python` · `TensorFlow` · `scikit-learn` · `XGBoost` · `TinyML`
+
+### [Embedded Smart-Farm Simulation](https://github.com/MoriTB/embedded_farm_simulation)
+
+A six-task real-time system coordinating sensors, actuators, scheduling, and shared resources in an automated animal-feeding environment.
+
+`C/C++` · `FreeRTOS` · `Proteus` · `Real-Time Systems`
+
+## Technical Toolkit
+
+**Machine Learning:** PyTorch · TensorFlow · scikit-learn · LightGBM · XGBoost · Optuna · SHAP
+
+**ML Systems:** FastAPI · Docker · SQL · Linux · Git · Experiment Design · Model Evaluation
+
+**Edge and Systems:** C/C++ · FreeRTOS · Embedded Systems · Resource-Constrained Inference
+
+## Beyond the Models
+
+I have teaching experience in **Computer Architecture** and **Software Testing**, helping students connect theoretical concepts with practical implementation.
+
+I’m currently turning my research and previous projects into reproducible ML case studies with clear architecture, measurable results, tests, and interactive demonstrations.
+
+<p align="center">
+  <strong>Open to Machine Learning Engineer, Applied ML, ML Systems, and ML Security opportunities.</strong>
+</p>
